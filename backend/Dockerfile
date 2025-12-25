@@ -1,4 +1,3 @@
-# ============= STAGE 1: Build the application =============
 FROM eclipse-temurin:21-jdk-alpine AS builder
 
 # Tạo thư mục làm việc
